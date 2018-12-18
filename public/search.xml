@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[Leetcode Note(1)]]></title>
+    <url>%2F2018%2F12%2F17%2FLeetcode-Note-1%2F</url>
+    <content type="text"><![CDATA[Lc 80.Romve Duplicates from Sorted Array II]]></content>
+      <categories>
+        <category>Notes</category>
+      </categories>
+      <tags>
+        <tag>Leetcode</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Hexo(1)]]></title>
     <url>%2F2018%2F12%2F11%2FHexo-1%2F</url>
     <content type="text"></content>
